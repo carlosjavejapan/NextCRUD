@@ -55,9 +55,9 @@ function NewPage({params}) {
   }
 
   return (
-    <div className="h-[calc(100vh-69px)]  flex justify-center items-center">
+    <div className="container mx-auto h-[calc(100vh-69px)] flex justify-center items-center">
       <form
-        className="bg-slate-100 dark:bg-slate-800 p-10 lg:w-1/3 md:w-full rounded-lg shadow-xl"
+        className="bg-slate-100 dark:bg-slate-800 p-4 md:p-10 lg:w-1/3 w-full rounded-lg shadow-xl"
         onSubmit={onSubmit}
       >
         <label
