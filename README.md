@@ -1,6 +1,5 @@
 ## URL APP
-https://nextjs-prisma-crud-e968l27dt-carlos-javes-projects.vercel.app/
-
+https://nextjs-prisma-crud-lovat.vercel.app/
 
 
 https://github.com/user-attachments/assets/2f940ab1-6983-4454-86a5-7f32012fb7ea
